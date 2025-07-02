@@ -6,9 +6,9 @@ Explored core concepts of mathematics and stats useful for datascience & AI
 
 🔢<b>Mathemathics:<b>
 
-🟰Equations
-🔢🤓Number Theory
-🧑‍🏫 SVD(Singular Value Decomposition) 
+🟰Equations<br>
+🔢🤓Number Theory<br>
+🧑‍🏫 SVD(Singular Value Decomposition)<br>
 
 📊<b>Statistics:<b>
 
