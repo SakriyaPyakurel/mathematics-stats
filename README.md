@@ -30,3 +30,4 @@ Explored core concepts of mathematics and stats useful for datascience & AI
 ⚙️ <b>Core Technologies: Python and Jupyter Notebook</b>📝 and <b>VS-code editor</b>🗃️<br>
 
 🗄️Dataset used: Titanic(🛳️) Dataset availabe at: 🔗 https://www.kaggle.com/datasets/yasserh/titanic-dataset
+🧑‍🏫 Mentor : Codanics (Dr. Aammar Tufail) Youtube Channel available at: 🔗 https://www.youtube.com/@Codanics 
